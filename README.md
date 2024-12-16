@@ -9,13 +9,10 @@
 
 <h2 align="center">🌐 Connect with me</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/manviupadhyay2" target="_blank">
+  <a href="https://www.linkedin.com/in/hrishabh-thakur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.gg/manviupadhyay2" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://github.com/manviupadhyay2" target="_blank">
+  <a href="https://github.com/hrishabhthakur2" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
